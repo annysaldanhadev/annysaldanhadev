@@ -1,7 +1,7 @@
 <h1 align="center">💗 Anny Saldanha — Dev in Bloom 💗</h1>
 
 <p align="center">
-  <i>soft girl energy, clean code mindset & big tech dreams ✨</i>
+  <i>sclean code mindset & big tech dreams ✨</i>
 </p>
 
 <p align="center">
