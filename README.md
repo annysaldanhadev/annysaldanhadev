@@ -22,7 +22,7 @@
 ```yaml
 name: Anny Saldanha
 role: Software Engineering Student
-main_stack: Java & JavaScript
+main_stack: Java • JS • SQL • MySQL • React
 interests: Web Dev • Systems • UX
 aesthetic: soft ✿ y2k ✿ tech
 learning_mode: constant ✨
