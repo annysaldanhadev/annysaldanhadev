@@ -32,4 +32,4 @@ coffee_dependency: true ☕
 📈 GitHub Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=annysaldanhad&show_icons=true&theme=tokyonight"/> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=annysaldanhad&theme=tokyonight"/> </p>
 🌈 Let’s Connect!
-<p align="center"> <a href="https://www.linkedin.com/in/seu-linkedin"> <img src="https://img.shields.io/badge/LinkedIn-Anny%20Saldanha-ff69b4?logo=linkedin"/> </a> <a href="mailto:seuemail@gmail.com"> <img src="https://img.shields.io/badge/Gmail-Contact%20Me-f472b6?logo=gmail"/> </a> </p> <p align="center"> <i>✨ building my future, one commit at a time ✨</i> </p> ```
+<p align="center"> <a href="https://www.linkedin.com/in/seu-linkedin"> <img src="https://img.shields.io/badge/LinkedIn-Anny%20Saldanha-ff69b4?logo=linkedin"/> </a> <a href="mailto:seuemail@gmail.com"> <img src="https://img.shields.io/badge/Gmail-Contact%20Me-f472b6?logo=gmail"/> </a> </p> <p align="center"> <i>✨ building my future, one commit at a time ✨</i> </p> 
