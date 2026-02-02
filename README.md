@@ -27,9 +27,44 @@ interests: Web Dev • Systems • UX
 aesthetic: soft ✿ y2k ✿ tech
 learning_mode: constant ✨
 coffee_dependency: true ☕
-💿 Tech Stack
-<p align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="42"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="42"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="42"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="42"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="42"/> </p>
-📈 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=annysaldanhad&show_icons=true&theme=tokyonight"/> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=annysaldanhad&theme=tokyonight"/> </p>
-🌈 Let’s Connect!
-<p align="center"> <a href="https://www.linkedin.com/in/seu-linkedin"> <img src="https://img.shields.io/badge/LinkedIn-Anny%20Saldanha-ff69b4?logo=linkedin"/> </a> <a href="mailto:seuemail@gmail.com"> <img src="https://img.shields.io/badge/Gmail-Contact%20Me-f472b6?logo=gmail"/> </a> </p> <p align="center"> <i>✨ building my future, one commit at a time ✨</i> </p> 
+
+## 💿 Tech Stack
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="42"/>
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=annysaldanhad&show_icons=true&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=annysaldanhad&theme=tokyonight"/>
+</p>
+
+---
+
+## 🌈 Let’s Connect!
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/seu-linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-Anny%20Saldanha-ff69b4?logo=linkedin"/>
+  </a>
+  <a href="mailto:seuemail@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact%20Me-f472b6?logo=gmail"/>
+  </a>
+</p>
+
+<p align="center">
+  <i>✨ building my future, one commit at a time ✨</i>
+</p>
