@@ -1,13 +1,12 @@
-<h1 align="center">💗 Anny Saldanha — Dev in Bloom 💗</h1>
+<h1 align="center"> Anny Saldanha </h1>
 
 <p align="center">
   <i>clean code mindset & big tech dreams ✨</i>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/status-evolving%20daily-ff69b4"/>
-  <img src="https://img.shields.io/badge/vibe-y2k%20dev%20girl-f4b6c2"/>
-  <img src="https://img.shields.io/badge/focus-java%20%7C%20javascript%20%7C%20web-c084fc"/>
+  <img src="https://img.shields.io/badge/status-coding%20-ff69b4"/>
+  <img src="https://img.shields.io/badge/focus-java%20%7C%20JS&TS%20%7C%20web-c084fc"/>
   <img src="https://img.shields.io/badge/location-brazil-7dd3fc"/>
 </p>
 
@@ -17,13 +16,12 @@
 
 ---
 
-## 🌸 About Me
+## About Me
 
 ```yaml
 name: Anny Saldanha
 role: Software Engineering Student
-main_stack: Java • JS • SQL • MySQL • React
-interests: Web Dev • Systems • UX
-aesthetic: soft ✿ y2k ✿ tech
-learning_mode: constant ✨
-coffee_dependency: true ☕
+main_stack: Java • JS • MySQL • React
+interests: Web • Mobile • UI/UX
+learning_mode: constant 
+coffee_dependency: true 
